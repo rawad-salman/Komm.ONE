@@ -1,0 +1,23 @@
+{
+  "name": "komm.one.vsc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rawad-salman/Komm.ONE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rawad-salman/Komm.ONE/issues"
+  },
+  "homepage": "https://github.com/rawad-salman/Komm.ONE#readme",
+  "dependencies": {
+    "cypress": "^9.0.0"
+  }
+}
